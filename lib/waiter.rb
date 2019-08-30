@@ -29,6 +29,7 @@ class Waiter
         return meal_instances
     end 
 
+
     def best_tipper
         customer = nil
         biggest_tip = 0 
@@ -43,4 +44,3 @@ class Waiter
     # two different variables to keep track of use each 
 end
 
-# 
